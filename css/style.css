@@ -6,5 +6,5 @@ html, body{
 .bkg__01{
   height:100%;
   width: 100%;
-  background: url('imgs/bkg_pink.jpg')
+  background: url('../imgs/bkg_pink.jpg')
 }
