@@ -1,0 +1,10 @@
+html, body{
+  height:100%;
+  width: 100%;
+}
+
+.bkg__01{
+  height:100%;
+  width: 100%;
+  background: url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000')
+}
