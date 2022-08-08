@@ -9,4 +9,10 @@ html, body{
   background: url('../imgs/bkg_pink.jpg') no-repeat;
   background-size:cover;
   background-position: center;
+  
+}
+.main_text{
+    text-align: center;
+    vertical-align: middle;
+    font-family: fantasy;
 }
