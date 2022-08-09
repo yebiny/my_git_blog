@@ -1,18 +1,12 @@
 html, body{
-  height:100%;
-  width: 100%;
+    width : 100%;
+    height : 100%;
 }
-
 .bkg__01{
-  height:100%;
-  width: 100%;
-  background: url('../imgs/bkg_pink.jpg') no-repeat;
-  background-size:cover;
-  background-position: center;
-  
-}
-.main_text{
-    text-align: center;
-    vertical-align: middle;
-    font-family: fantasy;
+    width : 100%;
+    height : 100%;
+    background-image: url("../images/bkg_pink.jpg");
+    background-size: cover;
+    background-position: center;
+
 }
