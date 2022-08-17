@@ -2,45 +2,38 @@ html, body{
     width : 100%;
     height : 100%;
 }
-.portfolio_title{
+.page_text{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.text_title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #4682B4;
+    margin-bottom: 10px;
+    font-family: 'jua';
+}
+.page_contents{
     width: 60%;
     text-align: center;
-    margin-left: 18%;
-    padding: 0.5em 0.6em; 
-    color: #6495ED;   
-    font-family: 'Noto Serif KR', serif;
-    font-size: 50px;
+    margin-left: 20%;
+    border-bottom: 4px solid #4682B4;
+    margin-bottom: 50px;
 }
-
-.portfolio_content{
-    
-    width : 65%;
-    margin-left: 17%;
-    text-align: center;
-    border-bottom: 3px solid #6495ED;
-    padding: 36px 0;
-    font-size: 14px;
-    font-family: 'Noto Serif KR', serif;
-}
-.subject{
-    padding: 0.5em 0.5em;
-    margin-bottom: 25px;
-    font-size: 15px;
+.content_title{
+    padding: 0.2em 0.4em;
+    font-size: 22px;
+    background-color: #4682B4;
     color: white;
-    background-color: #6495ED;
-    border-radius: 25px 25px 0px 0px; 
-    
-}
-.content{
-    font-size: 16px;
-    color: black;
+    font-weight: bold;
+    border-radius: 25px 25px 0px 0px;
+    margin-bottom: 30px;
 }
 
-
-ul{
+.content_text{
+font-family: 'Lato', sans-serif;    
+}
+.content_list{
     display: inline-block;
-    list-style-type : none;
-}
-a{
-    color: black;
+    list-style-type: none;
 }
